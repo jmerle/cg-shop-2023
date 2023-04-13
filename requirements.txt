@@ -1,0 +1,5 @@
+cgshop2023-pyutils==0.2.10
+conan==1.54.0
+matplotlib==3.6.2
+adjustText==0.7.3
+tqdm==4.64.1
